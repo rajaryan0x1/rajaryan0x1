@@ -5,4 +5,4 @@
 I build software, experiment with new technologies, and turn ideas into working products.
 
 
-[Portfolio](rajaryan.dev)
+[Portfolio](https://rajaryan.dev)
