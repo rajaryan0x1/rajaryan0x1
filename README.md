@@ -16,7 +16,6 @@ REPL, quoting-aware parser, PATH lookup, I/O redirection, signal handling, and t
 ## 🧩 Open source
 
 - **Nushell**: [#19299](https://github.com/nushell/nushell/pull/19299) (merged). Fixed type-inference edge cases in `detect type` and added regression tests.
-- **Ruff**: [#28739](https://github.com/astral-sh/ruff/pull/28739) (in review)
 
 ## 🛠️ Tech stack
 
