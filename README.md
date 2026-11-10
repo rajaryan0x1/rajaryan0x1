@@ -2,7 +2,7 @@
 
 CS undergrad at Sharda University (2028) building reliable backends, real-time apps, and systems tools in **Rust** and **TypeScript**. Open-source contributor to [Nushell](https://github.com/nushell/nushell).
 
-🌐 [rajaryan.dev](https://rajaryan.dev) · 💼 [LinkedIn](https://linkedin.com/in/rajaryan0x1) · ✉️ rajaryan0x1@gmail.com
+🌐 [rajaryan.dev](https://rajaryan.dev) · 💼 [LinkedIn](https://linkedin.com/in/rajaryan0x1)
 
 ## 🚀 Featured projects
 
